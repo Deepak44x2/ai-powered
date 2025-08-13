@@ -145,6 +145,11 @@ ________________________________________
 ![color 2](https://github.com/user-attachments/assets/5afae56a-8f54-4ddd-a5f0-9fb649c5b18a)
 ![color 3](https://github.com/user-attachments/assets/0d723db7-0cc4-491f-9c85-783174bd5f93)
 
+**Optical Character Recognition**
+
+<img width="1581" height="847" alt="image" src="https://github.com/user-attachments/assets/0603ad55-7ca9-47ce-bca0-e7250ac077fa" />
+<img width="1575" height="841" alt="image" src="https://github.com/user-attachments/assets/873af816-9ecf-44b0-8bba-4aaae6e6e06f" />
+
 
 
 
@@ -153,6 +158,7 @@ ________________________________________
 📜 License
 
 This project is licensed under the MIT License – see LICENSE for details.
+
 
 
 
