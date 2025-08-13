@@ -121,6 +121,15 @@ ________________________________________
 <img width="612" height="967" alt="sos2" src="https://github.com/user-attachments/assets/d1e33939-682d-4674-9338-7aabddf9caaf" />
 <img width="548" height="972" alt="sos3" src="https://github.com/user-attachments/assets/0b587b32-e8f6-4d91-bce2-387089d5efab" />
 
+**OBJECT DETECTION **
+![object detection](https://github.com/user-attachments/assets/7ed89560-deaf-441e-8324-f0e3431fcd2b)
+![ob2](https://github.com/user-attachments/assets/3fa85b5a-c417-495d-b903-c462b9e1ef02)
+
+**COLOR DETECTION **
+![color 1](https://github.com/user-attachments/assets/6c3aff9d-7b83-4f7f-b09e-6ac592353882)
+![color 2](https://github.com/user-attachments/assets/5afae56a-8f54-4ddd-a5f0-9fb649c5b18a)
+![color 3](https://github.com/user-attachments/assets/0d723db7-0cc4-491f-9c85-783174bd5f93)
+
 
 
 
@@ -129,5 +138,6 @@ ________________________________________
 📜 License
 
 This project is licensed under the MIT License – see LICENSE for details.
+
 
 
