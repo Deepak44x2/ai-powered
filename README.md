@@ -114,6 +114,14 @@ ________________________________________
 
 ________________________________________
 📷 Screenshots / GIFs
+**SOS PAGE:**
+
+
+<img width="565" height="971" alt="sos1" src="https://github.com/user-attachments/assets/6a39c339-3bd4-448f-84bb-27fd5396134f" />
+<img width="612" height="967" alt="sos2" src="https://github.com/user-attachments/assets/d1e33939-682d-4674-9338-7aabddf9caaf" />
+<img width="548" height="972" alt="sos3" src="https://github.com/user-attachments/assets/0b587b32-e8f6-4d91-bce2-387089d5efab" />
+
+
 
 
 ________________________________________
@@ -121,4 +129,5 @@ ________________________________________
 📜 License
 
 This project is licensed under the MIT License – see LICENSE for details.
+
 
