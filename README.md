@@ -1,4 +1,4 @@
-PROGRAMMING LANGUAGES:
+PROGRAMMING LANGUAGES
 Python – Best for AI, computer vision, and hardware interaction.
 JavaScript , Typescript (Node.js) – For integrating web or mobile dashboard (UX/UI).
 
@@ -13,4 +13,5 @@ gTTS (Google Text-to-Speech) or pyttsx3 – For offline TTS in Python.
 Flask and Fast API - For voice assisted navigation.
 SpeechRecognition - For converting speech to text.
 
-![Uploading image.png…]()
+
+
