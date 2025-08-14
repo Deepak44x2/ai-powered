@@ -1,5 +1,7 @@
 AI-POWERED-WEARABLE-ASSISTANT
+
 An intelligent wearable assistant designed for visually impaired individuals, leveraging AI, computer vision, and speech technologies to provide real-time assistance, situational awareness, and enhanced accessibility.
+
 Badges:
 Python 3.11 | MIT License | Active Development
 
@@ -94,13 +96,13 @@ ________________________________________
 1.	Clone the repository:
 git clone https://github.com/Deepak44x2/aipowered.git
 cd AI-POWERED-WEARABLE-ASSISTANT
-2.	Create a virtual environment (recommended):
+3.	Create a virtual environment (recommended):
 python -m venv venv
 source venv/bin/activate   # Linux / Mac
 venv\Scripts\activate      # Windows
-3.	Install dependencies:
+4.	Install dependencies:
 pip install -r requirements.txt
-4.	Run the main script:
+5.	Run the main script:
 python main.py
 Note: Some modules require YOLOv8 weights, microphone access, or webcam permissions.
 
@@ -158,6 +160,7 @@ ________________________________________
 📜 License
 
 This project is licensed under the MIT License – see LICENSE for details.
+
 
 
 
