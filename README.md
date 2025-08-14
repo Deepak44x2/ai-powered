@@ -22,8 +22,10 @@ ________________________________________
 
 🌟 Overview
 AI-POWERED-WEARABLE-ASSISTANT is a fully integrated AI solution designed to empower visually impaired users by providing real-time environmental feedback. The system combines object recognition, color and currency detection, OCR, text-to-speech, and emergency alerts, making daily tasks safer, faster, and more independent.
+
 Core Technologies:
 Python, OpenCV, TensorFlow, YOLOv8, EasyOCR, PyTTSx3, gTTS
+
 The system emphasizes instant audio feedback, multi-object awareness, and user-friendly interaction, transforming complex computer vision tasks into intuitive guidance for the visually impaired.
 ________________________________________
 
@@ -43,8 +45,11 @@ ________________________________________
 🚀 Current Features
 
 🆘 SOS Alert
+
 •	Instantly sends emergency alerts to preconfigured contacts.
+
 •	Optional location sharing via messaging services.
+
 •	Audio confirmation ensures user awareness of sent alerts.
 
 🎨 Color Detection
@@ -160,6 +165,7 @@ ________________________________________
 📜 License
 
 This project is licensed under the MIT License – see LICENSE for details.
+
 
 
 
